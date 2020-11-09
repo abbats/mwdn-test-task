@@ -1,0 +1,15 @@
+.form-input {
+    border: 1px solid gray;
+    width: 100%;
+    padding: 6px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+.form-input-error {
+    margin-top: 2px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
