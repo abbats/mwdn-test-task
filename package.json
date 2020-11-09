@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Test task",
   "scripts": {
-    "start": "webpack-dev-server --mode development --open",
-    "buildTs": "tsc"
+    "start": "webpack-dev-server --mode development --open"
   },
   "keywords": [
     "test"
@@ -41,8 +40,6 @@
     "css-loader": "^5.0.1",
     "html-webpack-plugin": "^4.5.0",
     "mini-css-extract-plugin": "^1.3.0",
-    "node-sass": "^5.0.0",
-    "sass-loader": "^10.0.5",
     "style-loader": "^2.0.0",
     "typescript": "^4.0.5",
     "webpack": "^5.4.0",
